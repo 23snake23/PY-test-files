@@ -1,6 +1,6 @@
 percent = float(input('input percent of test in numbers'))
 
-if percent >= 90 and <= 100:
+if percent >= 90 and < 101:
     print ('Student is grade 9')
 elif percent >= 80 and <90:
     print ('Student is grade 8')
