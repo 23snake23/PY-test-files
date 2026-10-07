@@ -224,6 +224,11 @@ def main():
         print("              TEACHER REPORT SYSTEM")
         print("=" * 60)
 
+        print()
+        print("Version 1.1")
+        print("(c) BlueSnake 2026, program is open source")
+        print()
+
         print("1. View all reports")
         print("2. Find a student")
         print("3. Add a student")
