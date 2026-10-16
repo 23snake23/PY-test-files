@@ -7,7 +7,7 @@ elif password=="today-ten":
     print("welcome Sam")
 
 elif password=="DELL":
-    print("Welcome Aarif")
+    print("Welcome Snake")
 
 else:
     print("invalid password")
